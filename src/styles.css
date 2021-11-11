@@ -1,0 +1,89 @@
+h4 {
+  color: #155263;
+  font-size: 24px;
+  text-align: center;
+}
+
+body {
+  margin-top: 10px;
+}
+
+.temperature {
+  font-size: 22px;
+}
+
+.units {
+  vertical-align: super;
+}
+.weather {
+  border: solid;
+  border-color: #155263;
+  text-align: center;
+  font-size: 18px;
+}
+
+.weather-icon,
+.temp {
+  color: blue;
+  font-size: 28px;
+  font-weight: bolder;
+}
+
+#weather-description {
+  color: grey;
+}
+
+.warning {
+  color: red;
+}
+
+.current-city {
+  font-size: 18px;
+  float: left;
+}
+
+.current-weather {
+  color: #155263;
+  font-size: 24px;
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+}
+
+.five-day {
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  padding-top: 25px;
+  padding-bottom: 5px;
+  font-weight: bold;
+}
+
+.weekday {
+  border: solid;
+  border-radius: 5px;
+  border-color: #155263;
+  padding: 5px;
+  text-align: left;
+}
+
+.icon {
+  font-size: 30px;
+}
+
+.hi-temp,
+.lo-temp {
+  font-size: 18px;
+}
+
+.lo-temp {
+  font-weight: lighter;
+}
+
+.col-2 {
+  width: 20%;
+}
+
+.sunrise,
+.sunset {
+  color: #ff6f3c;
+  font-size: 18px;
+}
